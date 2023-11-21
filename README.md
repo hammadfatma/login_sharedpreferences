@@ -16,4 +16,4 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 # video
-<video src='[https://github.com/hammadfatma/login_sharedpreferences/blob/main/clideo_editor_5a6b6121094d473e9fc441446d039728.mp4](https://github.com/hammadfatma/login_sharedpreferences/assets/97297539/5eeb62a8-d824-4d5b-97f4-7528362d4fc6)https://github.com/hammadfatma/login_sharedpreferences/assets/97297539/5eeb62a8-d824-4d5b-97f4-7528362d4fc6' width=180/>
+<video src='https://github.com/hammadfatma/login_sharedpreferences/assets/97297539/5eeb62a8-d824-4d5b-97f4-7528362d4fc6' width=180/>
